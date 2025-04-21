@@ -1,0 +1,17 @@
+{
+  "name": "list-app",
+  "version": "1.0.0",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": "https://github.com/ahmetsamigul/caycore-odev.git",
+  "author": "ahmetsamigul <ahmetsamigul24@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^2.2.0",
+    "express": "^5.1.0",
+    "rethinkdbdash": "^2.3.31"
+  }
+}
